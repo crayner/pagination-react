@@ -1,2 +1,3 @@
-# pagination-react
-Symfony / React Pagination 
+# Symfony / React Pagination 
+
+### Version: Draft
